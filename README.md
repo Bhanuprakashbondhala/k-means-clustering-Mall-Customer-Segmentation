@@ -33,3 +33,18 @@
  learning can provide valuable business insights.
  6. Future Work
 Possible extensions of this project include:- Using other clustering algorithms like DBSCAN or Hierarchical clustering.- Adding more customer features (e.g., frequency of visits, product categories purchased).- Deploying the model in a dashboard for real-time customer segmentation
+Clone the repository:
+
+git clone https://github.com/your-username/Titanic-Project.git cd Titanic-Project
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the Jupyter Notebook:
+
+jupyter notebook Titanic_Project.ipynb
+
+🙌 Author
+
+BUNNY (Bhanu Prakash Bondhala) 📧 [mr.bunny3696@gmail.com] 💼 [https://www.linkedin.com/in/bhanu-prakash-bondhala-a4a695255/]
