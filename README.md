@@ -35,7 +35,7 @@
 Possible extensions of this project include:- Using other clustering algorithms like DBSCAN or Hierarchical clustering.- Adding more customer features (e.g., frequency of visits, product categories purchased).- Deploying the model in a dashboard for real-time customer segmentation
 Clone the repository:
 
-git clone https://github.com/your-username/Titanic-Project.git cd Titanic-Project
+git clone https://github.com/Bhanuprakashbondhala/k-means-clustering-Mall-Customer-Segmentation.git
 
 Install dependencies:
 
