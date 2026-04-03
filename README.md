@@ -45,6 +45,4 @@ Run the Jupyter Notebook:
 
 jupyter notebook Titanic_Project.ipynb
 
-🙌 Author
-
-BUNNY (Bhanu Prakash Bondhala) 📧 [mr.bunny3696@gmail.com] 💼 [https://www.linkedin.com/in/bhanu-prakash-bondhala-a4a695255/]
+(Bhanu Prakash Bondhala) 📧 [mr.bunny3696@gmail.com] 💼 [https://www.linkedin.com/in/bhanu-prakash-bondhala-a4a695255/]
